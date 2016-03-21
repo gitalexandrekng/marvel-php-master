@@ -1,0 +1,50 @@
+body{
+  font-family:Helvetica;
+}
+
+#centered{
+  text-align:center;
+}
+
+h2{
+  color:#2ecc71;
+}
+
+#jecherche{
+  width:400px;
+  margin:auto;
+  height:30px;
+}
+
+#submit-cherche{
+  margin-top:20px;
+  width:200px;
+  height:40px;
+  background-color:#2ecc71;
+  border:0;
+  color:white;
+  font-size:16px;
+  text-transform:uppercase;
+}
+
+.test{
+  text-align:center;
+  background-color:#EEE;
+  border:1px solid #CCC;
+  padding:10px;
+  max-width:400px;
+  margin:20px auto 50px auto;
+}
+
+#results{
+  font-size:18px;
+}
+
+#jecentre{
+  text-align:center;
+}
+
+#ouesh{
+  font-size:18px;
+  font-weight:bold;
+}
